@@ -31,11 +31,14 @@ section{
     border-radius: 5px;
     color: white;font-weight: 700;
 }
+p{
+    text-align: justify;
+}
 .Quarter-width img{
     width: 30%;
     padding-left: 2%;
 }
-.contact-area{
+.contact-part{
     text-align: center;
     border-radius: 10px;
 }
@@ -45,5 +48,17 @@ section{
     margin-right: 25%;
     margin-top: 5%;
     margin-bottom: 5%;
-    height: 110px;
+    height: 150px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+}
+.Biography{
+    background-image: url(images/biography-bg.png);
+}
+.Latest-work{
+    background-image: url(images/latest-work-bg.png);
+}
+.contact-area{
+    background-image: url(images/footer-bg.png);
 }
