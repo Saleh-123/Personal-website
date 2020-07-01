@@ -37,4 +37,13 @@ section{
 }
 .contact-area{
     text-align: center;
+    border-radius: 10px;
+}
+.contact-side{
+    background-color: tomato;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 90px;
 }
